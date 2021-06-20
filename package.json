@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "UNLICENSED",
   "scripts": {
-    "build": "antora --fetch antora-playbook.yml"
+    "build": "antora --fetch --attribute page-pagination= --to-dir build  antora-playbook.yml"
   },
   "dependencies": {
     "@antora/cli": "^2.3.4",
