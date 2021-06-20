@@ -1,0 +1,13 @@
+{
+  "name": "hackadot-docs",
+  "version": "1.0.0-beta.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "antora --fetch antora-playbook.yml"
+  },
+  "dependencies": {
+    "@antora/cli": "^2.3.4",
+    "@antora/site-generator-default": "^2.3.4"
+  }
+}
