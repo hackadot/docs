@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<sitemap>
-<loc>https://hackadot.github.io/docs/sitemap-component-a.xml</loc>
-</sitemap>
-<sitemap>
-<loc>https://hackadot.github.io/docs/sitemap-component-b.xml</loc>
-</sitemap>
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://hackadot.github.io/docs/docs/index.html</loc>
+<lastmod>2021-06-20T12:55:10.496Z</lastmod>
+</url>
+</urlset>
